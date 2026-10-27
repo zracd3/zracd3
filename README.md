@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zracd3
+- 👋 Hi, I’m Raúl Rodríguez Castellanos
 - 👀 I’m interested in C, C++, python, Robotics, ...
 - 🌱 I’m currently learning VHDL and python
 - 💞️ I’m looking to collaborate on Software development, AI, Robotics.
